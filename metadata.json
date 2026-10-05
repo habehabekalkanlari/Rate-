@@ -1,0 +1,6 @@
+{
+  "name": "Live Studio",
+  "description": "Ableton Live-inspired music production DAW with Session clip launcher, step sequencer, polyphonic synth, drum rack, audio effects, and real-time mixer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
